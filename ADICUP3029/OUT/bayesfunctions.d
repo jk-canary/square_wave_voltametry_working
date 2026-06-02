@@ -1,0 +1,17 @@
+.\out\bayesfunctions.o: C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.15.0\Source\BayesFunctions\BayesFunctions.c
+.\out\bayesfunctions.o: C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.15.0\Source\BayesFunctions\arm_gaussian_naive_bayes_predict_f32.c
+.\out\bayesfunctions.o: C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.15.0\Include\dsp/bayes_functions.h
+.\out\bayesfunctions.o: C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.15.0\Include\arm_math_types.h
+.\out\bayesfunctions.o: C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h
+.\out\bayesfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\out\bayesfunctions.o: C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
+.\out\bayesfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\out\bayesfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\out\bayesfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+.\out\bayesfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\out\bayesfunctions.o: C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.15.0\Include\arm_math_memory.h
+.\out\bayesfunctions.o: C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.15.0\Include\dsp/none.h
+.\out\bayesfunctions.o: C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.15.0\Include\dsp/utils.h
+.\out\bayesfunctions.o: C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.15.0\Include\dsp/statistics_functions.h
+.\out\bayesfunctions.o: C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.15.0\Include\dsp/basic_math_functions.h
+.\out\bayesfunctions.o: C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.15.0\Include\dsp/fast_math_functions.h
